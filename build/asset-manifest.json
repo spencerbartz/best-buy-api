@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio/best-buy-api/static/css/main.1437edf2.css",
+    "main.js": "/portfolio/best-buy-api/static/js/main.0c777702.js",
+    "index.html": "/portfolio/best-buy-api/index.html",
+    "main.1437edf2.css.map": "/portfolio/best-buy-api/static/css/main.1437edf2.css.map",
+    "main.0c777702.js.map": "/portfolio/best-buy-api/static/js/main.0c777702.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1437edf2.css",
+    "static/js/main.0c777702.js"
+  ]
+}

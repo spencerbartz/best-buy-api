@@ -1,11 +1,12 @@
 {
-  "name": "product-list",
+  "name": "best-buy-api",
   "version": "0.1.0",
-  "homepage": "https://spencerbartz.com/js/product_list",
+  "homepage": "https://spencerbartz.com/portfolio/best-buy-api",
   "dependencies": {
+    "joi": "^17.13.3",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
